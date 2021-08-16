@@ -2,7 +2,7 @@
   "name": "name-details",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/jatinsajwan3841/name-details/",
+  "homepage": "https://jatinsajwan3841.github.io/name-details/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
