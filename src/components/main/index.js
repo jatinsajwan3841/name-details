@@ -56,6 +56,7 @@ const Main = () => {
                     placeholder="first name"
                     minLength="3"
                     className="name"
+                    required
                 />
                 <br />
                 <input
